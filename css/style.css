@@ -1,0 +1,46 @@
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: beige;
+    font-family: 'Roboto', sans-serif;
+}
+
+#main{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ width: 75%;
+ text-align: center;
+ background-color: rgb(225, 245, 248);
+
+}
+
+#main h1{
+    margin: 0;
+}
+#main p{
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+#imgprincipal{
+    width: 50%;
+    border-radius: 20%;
+}
+
+
+#contenido2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#footer{
+    padding-top: 5%;
+}
+
+.articulo2 ul{
+    list-style: none;
+}
